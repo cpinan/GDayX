@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GDayX</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="maps_api_key">AIzaSyDr4ZCQgrQMVOqmZLh3oxXdpoxNMREsUGk</string>
+    <string name="cambiar_mapa">Cambiar mapa</string>
+    <string name="mostrar_ruta">Mostrar ruta</string>
+
+</resources>

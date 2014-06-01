@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "lugar": "Centro Histórico",
+            "lat": -12.044693,
+            "long": -77.029709,
+            "imagen": "http://revista.peruanosenusa.net/wp-content/gallery/mitierra/centro-de-lima.jpg"
+        },
+        {
+            "lugar": "Convento de San Francisco",
+            "lat": -12.045385,
+            "long": -77.027459,
+            "imagen": "http://www.masitravel.com/imagenes/FotosCiudad/lima04.jpg"
+        },
+        {
+            "lugar": "Plaza de armas",
+            "lat": -12.045795,
+            "long": -77.030652,
+            "imagen": "http://www.masitravel.com/imagenes/FotosCiudad/plazaarmaslimag.jpg"
+        }
+
+    ]
+}
